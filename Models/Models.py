@@ -42,7 +42,6 @@ class Modelz():
 
         return renedered_model
 
-
     def rates_of_deviation(self):
         """Method"""
         index_list = list(self.Dataframe.index.values)
