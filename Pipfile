@@ -34,6 +34,8 @@ websocket-client = "==1.4.1"
 websockets = "==10.4"
 yarl = "==1.8.1"
 "zope.interface" = "==5.5.0"
+flask = "*"
+flask-cors = "*"
 
 [dev-packages]
 
